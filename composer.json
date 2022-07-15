@@ -1,0 +1,18 @@
+{
+    "name": "shahadatzcpe/mysql-country-with-flag",
+    "description": "All countries flag listed here",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shahadatzcpe\\MysqlCountryWithFlag\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Shahadat Hossain",
+            "email": "shahadat.zcpe@gmail.com"
+        }
+    ],
+    "require": {}
+}
